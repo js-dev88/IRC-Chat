@@ -14,6 +14,10 @@ javac @SEZ/files @SEZ/options
 
 6. Dans SEZ/classes, ouvrir une fenêtre de commande
 
+
+
+
+
 * Pour lancer un server saisissez la commande dans une nouvelle fenêtre de commande : 
 java server/SrvrChatMain
 * Pour lancer un client saisissez la commande dans une nouvelle fenêtre de commande : 
