@@ -2,6 +2,8 @@
 * Multi-serveurs
 * Multi-clients
 
+
+# Mise en place du projet
 1. Créer repertoire SEZ
 2. Dans SEZ, Créer trois répertoire client, server et classes
 3. Dans SEZ, mettre les fichiers options et files
